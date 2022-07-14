@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017!<br>📚 Current studying Smart Contracts and new patterns<br>🎯 My current goal is to know new cultures and peoples<br>🎮 i really love games, if you want to talk about it, just chat me</p>
+<p align="left">✨ Creating bugs since 2017!<br>📚 Current studying Smart Contracts and new patterns<br>🎯 My current goal is to know new cultures and people<br>🎮 i really love games, if you want to talk about it, just chat me</p>
 
 ###
 
