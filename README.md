@@ -13,11 +13,8 @@ I'm especially interested in how LLMs can support real software workflows and he
 🛠️ Focused on software engineering, product thinking, UX, maintainable code, and delivery quality <br></br>
 🌱 Exploring LLMs, automation, intelligent applications, and AI-native development workflows <br></br>
 💬 Ask me about software engineering, React, TypeScript, API integrations, UX, testing, and AI-assisted development
-
  
- <br></br>
----
- <br></br>
+--- 
 
 ## 🛠️ Tech Stack
 
